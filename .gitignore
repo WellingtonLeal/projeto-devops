@@ -1,0 +1,5 @@
+*.jason
+*.tfstate
+*.terraform
+*.backup
+*.tfplan
