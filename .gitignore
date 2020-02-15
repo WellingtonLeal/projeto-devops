@@ -2,4 +2,4 @@
 *.tfstate
 *.terraform
 *.backup
-*.tfplan
+*tfplan
